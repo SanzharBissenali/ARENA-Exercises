@@ -5,3 +5,6 @@
 
 ## ARENA Chapter 1.2 - Basics of Mech Interp and TransformerLens 
 [Link](https://colab.research.google.com/drive/19HEGjtDIjqqYXujyIczVDHIukL3PByVz?usp=sharing)
+
+## ARENA Chapter 1.5 - Grokking and Modular Arithmetic
+[Link](https://colab.research.google.com/drive/1zQKFpzZJfm7BP576s-9DWkC_YVxRJqO5?usp=sharing)
